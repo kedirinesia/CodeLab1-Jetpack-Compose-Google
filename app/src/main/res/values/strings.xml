@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CodeLab1</string>
+    <string name="title_activity_looping">Looping</string>
+    <string name="title_activity_on_boarding_screen">OnBoardingScreen</string>
+    <string name="title_activity_lazy_column">LazyColumn</string>
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+</resources>
